@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
@@ -20,13 +19,3 @@ export default function App() {
     </Routes>
     </BrowserRouter>
 }
-=======
-import React from 'react'
-
-export default function App() {
-
-  return (
-    <h1>App</h1>
-  )
-}
->>>>>>> 0a03017f50aea7594bea4ac1def212ed2d899add
